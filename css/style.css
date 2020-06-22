@@ -1,3 +1,6 @@
-div > #container {
-  background: lightblue;
+:root {
+ --bg: lightblue; 
+}
+#container {
+  background: var(--bg);
 }
