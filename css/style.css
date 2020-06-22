@@ -1,6 +1,6 @@
 :root {
  --bg: lightblue; 
 }
-#container {
+body {
   background: var(--bg);
 }
