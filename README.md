@@ -8,7 +8,7 @@ This is simple library to help you with colors
 
 ## Options
 ```javascript
-import cb-colors from 'cb-colors'
+import cb from 'cb-colors'
 
 console.log(cb.color("purple_heart"));
 ```
