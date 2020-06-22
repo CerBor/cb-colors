@@ -28,8 +28,12 @@
          </code><span>- get package version</span>
          <h3>Colors:</h3>
       </div>
+      <div id="vue">
+         {{ msg }}
+      </div>
       <script>
          var vue = new Vue({
+            el: '#vue',
             data: {
                msg: 'Msg';
             }
