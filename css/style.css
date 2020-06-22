@@ -4,3 +4,6 @@
 body {
   background: var(--bg);
 }
+#container {
+  text-align: center;
+}
